@@ -7,7 +7,7 @@ A FiveM library and resource implementing reusable modules, methods, and UI elem
 ![](https://img.shields.io/github/contributors/overextended/ox_lib?logo=github)
 ![](https://img.shields.io/github/v/release/overextended/ox_lib?logo=github) 
 
-## 📚 Documentation
+## Documentation
 
 https://overextended.dev/ox_lib
 
